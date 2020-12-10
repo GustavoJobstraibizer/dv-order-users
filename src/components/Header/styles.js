@@ -7,6 +7,7 @@ export const Header = styled.header`
   padding-top: 45px;
   font-size: 24px;
   font-weight: 700;
+  font-family: Roboto, sans-serif;
 `;
 
 export const ButtonHeader = styled.button`
